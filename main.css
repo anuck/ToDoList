@@ -1,0 +1,9 @@
+
+.strike {
+    text-decoration: line-through;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 4px;
+  }
